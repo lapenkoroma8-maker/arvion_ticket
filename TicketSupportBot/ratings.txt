@@ -1,3 +1,0 @@
-# Формат: Telegram ID|username|роль|оценки через запятую
-1781331191|Load1ng_z0ne|admin|
-8623838346|ARVION_Support|moderator|1
